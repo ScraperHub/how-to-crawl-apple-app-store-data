@@ -1,0 +1,27 @@
+{
+  "name": "how-to-crawl-apple-app-store-data",
+  "version": "1.0.0",
+  "description": "How to Crawl Apple App Store Data Without Getting Blocked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScraperHub/how-to-crawl-apple-app-store-data.git"
+  },
+  "keywords": [
+    "crawlbase",
+    "crawling",
+    "api",
+    "apple",
+    "apple",
+    "app-store"
+  ],
+  "author": "Scraper Hub Developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScraperHub/how-to-crawl-apple-app-store-data/issues"
+  },
+  "homepage": "https://github.com/ScraperHub/how-to-crawl-apple-app-store-data#readme"
+}
