@@ -61,4 +61,10 @@ Before running the examples, ensure that you replace all instances of the follow
 
 ---
 
+## Running the Script
+
+```bash
+npm run crawl
+```
+
 Copyright 2025 Crawlbase
