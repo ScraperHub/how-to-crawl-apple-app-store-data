@@ -51,14 +51,13 @@ npm -v
 
 1. [Sign up for a Crawlbase account](https://crawlbase.com/signup) and log in.
 2. Upon registration, you’ll receive 5,000 free requests to get started.
-3. Navigate to your [Account Docs](https://crawlbase.com/dashboard/account/docs) and copy your Crawling API token (Normal or JavaScript requests).
+3. Navigate to your [Account Docs](https://crawlbase.com/dashboard/account/docs) and copy your Crawling API token (Normal requests token).
 
 ## Running the Example Scripts
 
 Before running the examples, ensure that you replace all instances of the following placeholders:
 
-1. `<Normal or Javascript requests token>` - Replace this with your [Crawling API requests token](https://crawlbase.com/dashboard/account/docs).
-2. `<Crawler name>` - Replace this with the name of your newly created crawler. You can create or view it [here](https://crawlbase.com/dashboard/crawler/crawlers).
+`<Normal requests token>` - Replace this with your [Crawling API requests token](https://crawlbase.com/dashboard/account/docs).
 
 ---
 
