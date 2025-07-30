@@ -1,6 +1,6 @@
 # How to Crawl Apple App Store Data Without Getting Blocked
 
-We invite you to explore our [blog](https://crawlbase.com/blog/how-to-crawl-apple-app-store-data/) for more details.
+We invite you to explore our [blog](https://crawlbase.com/blog/how-to-crawl-apple-app-store-data/?utm_source=github&utm_medium=referral&utm_campaign=scraperhub&ref=gh_scraperhub) for more details.
 
 ## Setting Up Your Coding Environment
 
@@ -59,12 +59,15 @@ Before running the examples, ensure that you replace all instances of the follow
 
 `<Normal requests token>` - Replace this with your [Crawling API requests token](https://crawlbase.com/dashboard/account/docs).
 
----
-
 ## Running the Script
 
 ```bash
 npm run crawl
 ```
+
+🛡 Disclaimer
+This repository is for educational purposes only. Please make sure you comply with the Terms of Service of any website you scrape. Use this responsibly and only where permitted.
+
+---
 
 Copyright 2025 Crawlbase
